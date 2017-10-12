@@ -1,2 +1,2 @@
-# scms
+# scms1
 a simple sms system
